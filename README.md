@@ -4,7 +4,7 @@
 
 本项目主要为Riboshape项目的分析流程教程及说明。主要包括以下几个部分:
 
-![1.png](evernotecid://58A46CB2-04A5-4F32-9233-277C274EDE1B/appyinxiangcom/19737026/ENResource/p321)
+![1.png](../png/1.png)
 
 
 * 1.RNAseq数据分析
@@ -38,7 +38,7 @@
 
 * **分析使用数据**
 
-![2.png](evernotecid://58A46CB2-04A5-4F32-9233-277C274EDE1B/appyinxiangcom/19737026/ENResource/p322)
+![1.png](../png/2.png)
 
 
 a.WT,UV-不加药时，RNA-seq相关性。
